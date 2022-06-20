@@ -1,0 +1,22 @@
+{
+    "name": "***",
+    "description": "**",
+    "keywords": ["V2Ray"],
+    "env": {
+        "ID": {
+            "description": "U-U-I-D",
+            "value": "b37cbf23-d5cf-4545-b334-a47a5cf42afa"
+        },
+        "AID": {
+            "description": "ID",
+            "value": "64"
+        },
+        "WSPATH": {
+            "description": "WebSocket Path",
+            "value": "/"
+        }
+    },
+    "website": "https://github.com/softbeen/rice/",
+    "repository": "https://github.com/softbeen/rice",
+    "stack": "container"
+}
